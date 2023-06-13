@@ -1,0 +1,1 @@
+**GOAL:** Determine and choose a full stack project to work on.

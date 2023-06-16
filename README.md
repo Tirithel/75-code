@@ -28,3 +28,5 @@ If you prefer not to use this specific structure but still want to take on the c
 ## Contributing
 
 This template was created on a whim, so feel free to contribute! I'm actively monitoring notifications and willing to 1) address any issues and 2) approve pull requests. Ideally, I would prefer to keep this template lightweight by avoiding the inclusion of too many additional community plugins.
+
+One thing that might be nice to have is some recommendations for projects, places to find coding problems, things to research, etc. You can contribute these suggestions by adding them inside the ZZ. Resources folder. Feel free to share any valuable resources or insights that can enhance the 75 Code challenge experience for others.
